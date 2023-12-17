@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paulus
+- 👀 I’m interested in data projects
+- 🌱 I’m currently learning SQL, Pyhton, Azure
+- 👨‍💻 Working on my first data analytics project
